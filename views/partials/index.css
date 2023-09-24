@@ -1,0 +1,10 @@
+
+html{
+    background-blend-mode:multiply;
+}
+
+
+.navbar{
+    background-color:rgba(67, 122, 211, 0.937);
+    color: rgba(165, 42, 42, 0.916);
+}
